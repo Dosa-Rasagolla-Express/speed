@@ -42,8 +42,3 @@ A real-time vehicle detection and speed estimation system built with **Python**,
 
 ---
 Made with love 💛 by Raskhith Ganjimut and AI
-# speed
-# speed
-# speed
-# speed
-# speed
