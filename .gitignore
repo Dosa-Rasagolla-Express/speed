@@ -63,5 +63,4 @@ cover/
 *.pth
 *.onnx
 videos/
-config.bat
 node_modules
